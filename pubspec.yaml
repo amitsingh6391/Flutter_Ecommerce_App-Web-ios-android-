@@ -1,0 +1,37 @@
+name: assignment
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  auto_route: ^1.0.2
+  bloc: ^7.0.0
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^7.0.0
+  flutter_screenutil: ^5.0.0
+  http: ^0.13.1
+  injectable: ^1.2.0
+  lottie: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  auto_route_generator: ^1.0.2
+  build_runner: null
+  freezed: ^0.14.1+2
+  injectable_generator: ^1.2.0
+
+flutter:
+
+  uses-material-design: true
+  
+  assets:
+   
+    - assets/lottiefile/
