@@ -1,8 +1,10 @@
-# assignment
+# FLutter E-commerce app Template
 
-A new Flutter project.
+This is a Flutter Web,ios,Android Ecommerce app Template by  using 
+BLoC+DDD ❤
 
-## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
