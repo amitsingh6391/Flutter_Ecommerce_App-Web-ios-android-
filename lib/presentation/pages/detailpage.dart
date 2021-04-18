@@ -74,7 +74,7 @@ class DetailPage extends StatelessWidget {
                         size: 20.h,
                       ),
                       Text(
-                        "  Easy 30 days return and exchange",
+                        "   Easy 30 days return and exchange",
                         style: Apptheme(context).normalText.copyWith(
                               fontSize: 15.h,
                             ),

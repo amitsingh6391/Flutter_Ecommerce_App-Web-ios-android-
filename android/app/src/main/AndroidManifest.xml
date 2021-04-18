@@ -4,7 +4,7 @@
      <uses-permission android:name="android.permission.INTERNET"/> 
 
    <application
-        android:label="E-commerce"
+        android:label="assignment"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
